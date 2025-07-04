@@ -1,4 +1,4 @@
-# 🌦️ Weather Forecast CLI App (Java)
+# 🌦️ Weather Forecast app (Java)
 
 This is a simple **Java-based console application** that allows users to get **real-time weather information** for any city in the world 🌍 using the [Open-Meteo Weather API](https://open-meteo.com/) and OpenStreetMap's Nominatim geolocation API.
 
@@ -77,5 +77,6 @@ The time zone is manually set to "Asia/Kolkata". You can change it or use timezo
 Open-Meteo Weather API
 Nominatim Geocoding API
 
-#Author name
-Sumit kumar
+## 🙌 Author
+
+**Sumit Kumar (lucifesk)
