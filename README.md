@@ -37,7 +37,7 @@ Thank you for using the Weather Forecast App. Stay safe!
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Lucifersk/RestAPItask2/new/main?filename=README.md
+git clone (https://github.com/Lucifersk/RestAPItask2.git)
 cd weather-forecast-java
 2. Download the org.json Library
 Download the .jar file from:
