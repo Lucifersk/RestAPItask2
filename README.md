@@ -1,6 +1,18 @@
-# 🌦️ Weather Forecast app (Java)
+# 🌦️ Weather Forecast CLI App (Java)
 
-This is a simple **Java-based console application** that allows users to get **real-time weather information** for any city in the world 🌍 using the [Open-Meteo Weather API](https://open-meteo.com/) and OpenStreetMap's Nominatim geolocation API.
+This is a simple **Java-based console application** that allows users to get **real-time weather information** for any city in the world 🌍 using:
+
+- **🗺️ OpenStreetMap Nominatim API** (for geolocation)
+- **🌤️ Open-Meteo API** (for weather data)
+
+---
+
+## 🌐 APIs Used
+
+| API | Purpose | Description |
+|-----|---------|-------------|
+| [OpenStreetMap Nominatim](https://nominatim.openstreetmap.org/) | 📍 Geocoding | Converts city names like `"Delhi"` or `"New York"` into `latitude` and `longitude`. |
+| [Open-Meteo API](https://open-meteo.com/) | 🌦️ Weather Data | Provides current temperature, wind speed, and local time based on coordinates. |
 
 ---
 
