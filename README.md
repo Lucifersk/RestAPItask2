@@ -1,3 +1,15 @@
+"COMPANY" : CODTECH IT SOLUTIONS
+
+"NAME" : Sumit kumar
+
+"INTERN ID" : CITS0D214
+
+"DOMAIN" : JAVA PROGRAMMING
+
+"DURATION" : 4 WEEK
+
+"MENTOR" : NEELA SANTHOSH
+
 # 🌦️ Weather Forecast CLI App (Java)
 
 This is a simple **Java-based console application** that allows users to get **real-time weather information** for any city in the world 🌍 using:
@@ -42,46 +54,6 @@ Thank you for using the Weather Forecast App. Stay safe!
 - OpenStreetMap Nominatim API (for geocoding)
 - Open-Meteo API (for current weather)
 - `org.json` library (for JSON parsing)
-
----
-
-## 📦 Setup Instructions
-
-### 1. Clone the Repository
-```bash
-git clone (https://github.com/Lucifersk/RestAPItask2.git)
-cd weather-forecast-java
-2. Download the org.json Library
-Download the .jar file from:
-👉 https://mvnrepository.com/artifact/org.json/json
-
-Then add it to your project:
-
-In IntelliJ IDEA:
-File > Project Structure > Libraries > + Add JAR
-
-▶️ How to Run
-Open the project in your favorite Java IDE (e.g. IntelliJ, Eclipse)
-
-Compile and run the Apitask2 class
-
-Enter any city name and view its weather
-
-Type yes to check another city or no to exit
-
-✅ Example Cities to Try
-Delhi
-
-Tokyo
-
-New York
-
-Sydney
-
-Paris
-
-💡 Notes
-Internet connection is required to access external APIs.
 
 The time zone is manually set to "Asia/Kolkata". You can change it or use timezone=auto in the API for dynamic time zones.
 
